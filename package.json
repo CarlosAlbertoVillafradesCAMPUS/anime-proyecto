@@ -1,0 +1,17 @@
+{
+  "name": "pokemon-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "author": "Carlos",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "node-fetch": "^3.2.10"
+  },
+  "type": "module"
+}
